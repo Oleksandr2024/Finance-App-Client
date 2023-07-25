@@ -1,6 +1,6 @@
 # Finance-App-Client
 
-The original Finance-App was divided into client and server part for convenience of deployment process. This is just a server part of the entire App. To visit the entire App live example please visit [Finance-App](https://finance-app-client-4d0z.onrender.com/)
+The original Finance-App was divided into client and server part for convenience of deployment process. This is just a client part of the entire App and it won't work properly without its server unit. To see the entire App live example please visit [Finance-App](https://finance-app-client-4d0z.onrender.com/)
 
 During the development of the Client part of the App:
 Introduced visual effects to highlight positive or negative changes in prices. When the current price differs from the previous one, positive changes are highlighted in green, while negative changes are highlighted in red. The same color visualization is applied to the price chart.
